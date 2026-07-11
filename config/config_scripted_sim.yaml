@@ -1,0 +1,40 @@
+subinfo_fields:
+  - name: subject_id
+    type: int
+    constraints: {min: 101, max: 999, digits: 3}
+subinfo_mapping: {subject_id: 被试编号（3位数字）, Participant Information: 被试信息, registration_failed: 登记失败, registration_successful: 登记成功, invalid_input: "{field} 输入无效"}
+window: {size: [1024, 768], units: pix, screen: 0, bg_color: black, fullscreen: false, monitor_width_cm: 35.5, monitor_distance_cm: 60}
+task:
+  task_name: Psychomotor Vigilance Task
+  save_path: ./outputs/sim
+  total_blocks: 1
+  total_trials: 4
+  trial_per_block: 4
+  conditions: [standard]
+  key_list: [space]
+  seed_mode: same_across_sub
+  delta: 1
+timing: {isi_duration: [0.1, 0.2], response_window_duration: 1.0, feedback_duration: 0.05, false_start_threshold: 0.1, lapse_threshold: 0.5}
+stimuli:
+  blank_screen: {type: text, text: "", color: black, height: 1, font: SimHei}
+  instruction_text: {type: text, text: "请注视屏幕中央。红色数字计时器出现后，请尽快按空格键。\n\n计时器出现前请不要按键；数字出现后要立即反应。\n\n任务约持续 10 分钟。按空格键开始。", color: white, height: 28, wrapWidth: 900, pos: [0, 0], font: SimHei}
+  target_counter: {type: text, text: "00000", color: red, height: 72, pos: [0, 0], font: Courier New}
+  rt_feedback: {type: text, text: "{rt_ms} ms", color: red, height: 56, pos: [0, 0], font: Courier New}
+  good_bye: {type: text, text: "任务完成\n\n有效反应：{valid_count}\n反应遗漏：{lapse_count}\n过早反应：{false_start_count}\n未反应：{no_response_count}\n平均反应时：{mean_rt_ms:.0f} ms\n\n按空格键退出。", color: white, height: 28, wrapWidth: 900, pos: [0, 0], font: SimHei}
+triggers:
+  map: {exp_onset: 1, exp_end: 2, block_onset: 10, block_end: 11, isi_onset: 20, false_start_response: 21, target_onset: 30, target_response: 31, target_timeout: 32, feedback_onset: 40}
+  driver: {type: serial_url, url: "loop://", baudrate: 115200}
+  timing: {post_delay_ms: 1}
+  policy: {strict: false}
+sim:
+  output_dir: outputs/sim
+  seed: 56001
+  participant_id: sim001
+  session_id: sub-sim001_task-pvt_seed56001
+  log_path: outputs/sim/sub-sim001_task-pvt_seed56001_sim_events.jsonl
+  policy: warn
+  default_rt_s: 0.25
+  clamp_rt: false
+  responder:
+    type: scripted
+    kwargs: {key: space, rt_s: 0.05}

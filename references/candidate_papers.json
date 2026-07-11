@@ -1,0 +1,2821 @@
+[
+  {
+    "id": "W2153762265",
+    "title": "The Cumulative Cost of Additional Wakefulness: Dose-Response Effects on Neurobehavioral Functions and Sleep Physiology From Chronic Sleep Restriction and Total Sleep Deprivation",
+    "authors": [
+      "Hans P. A. Van Dongen",
+      "Greg Maislin",
+      "Janet Mullington",
+      "David F. Dinges"
+    ],
+    "year": 2003,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/26.2.117",
+    "citation_count": 3148,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1855097856",
+    "title": "Cumulative Sleepiness, Mood Disturbance, and Psychomotor Vigilance Performance Decrements During a Week of Sleep Restricted to 4\u20135 Hours per Night",
+    "authors": [
+      "David F. Dinges",
+      "Frances M. Pack",
+      "Katherine Williams",
+      "Kelly A. Gillen",
+      "John W. Powell",
+      "Geoffrey E. Ott",
+      "Caitlin Aptowicz",
+      "Allan I Pack"
+    ],
+    "year": 1997,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/20.4.267",
+    "citation_count": 2042,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2162026342",
+    "title": "Sleep Restriction for 1 Week Reduces Insulin Sensitivity in Healthy Men",
+    "authors": [
+      "Orfeu M. Buxton",
+      "Milena Pavlova",
+      "Emily W. Reid",
+      "Wei Wang",
+      "Donald C. Simonson",
+      "Gail K. Adler"
+    ],
+    "year": 2010,
+    "journal": "Diabetes",
+    "doi_or_url": "https://doi.org/10.2337/db09-0699",
+    "citation_count": 597,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2053689710",
+    "title": "Non-Visual Effects of Light on Melatonin, Alertness and Cognitive Performance: Can Blue-Enriched Light Keep Us Alert?",
+    "authors": [
+      "Sarah L. Chellappa",
+      "Roland Steiner",
+      "Peter Blattner",
+      "Peter Oelhafen",
+      "Thomas G\u00f6tz",
+      "Christian Cajochen"
+    ],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0016429",
+    "citation_count": 551,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2921419167",
+    "title": "The Impact of Shift Work on Sleep, Alertness and Performance in Healthcare Workers",
+    "authors": [
+      "Saranea Ganesan",
+      "Michelle Magee",
+      "J. Stone",
+      "Megan D. Mulhall",
+      "Allison Collins",
+      "Mark E. Howard",
+      "Steven W. Lockley",
+      "Shantha M. W. Rajaratnam",
+      "Tracey L. Sletten"
+    ],
+    "year": 2019,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-019-40914-x",
+    "citation_count": 411,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2142478512",
+    "title": "The validity of psychomotor vigilance tasks of less than 10-minute duration",
+    "authors": [
+      "Sylvia Loh",
+      "Nicole Lamond",
+      "Jillian Dorrian",
+      "Gregory D. Roach",
+      "Drew Dawson\u2225"
+    ],
+    "year": 2004,
+    "journal": "Behavior Research Methods, Instruments, & Computers",
+    "doi_or_url": "https://doi.org/10.3758/bf03195580",
+    "citation_count": 348,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2096328158",
+    "title": "Effects of Partial and Acute Total Sleep Deprivation on Performance across Cognitive Domains, Individuals and Circadian Phase",
+    "authors": [
+      "June C. Lo",
+      "John A. Groeger",
+      "Nayantara Santhi",
+      "Emma L Arbon",
+      "Alp\u00e1r S. L\u00e1z\u00e1r",
+      "Sibah Hasan",
+      "Malcolm von Schantz",
+      "Simon Archer",
+      "Derk\u2010Jan Dijk"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0045987",
+    "citation_count": 337,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2339586650",
+    "title": "Sex differences in the circadian regulation of sleep and waking cognition in humans",
+    "authors": [
+      "Nayantara Santhi",
+      "Alp\u00e1r S. L\u00e1z\u00e1r",
+      "Patrick McCabe",
+      "June C. Lo",
+      "John A. Groeger",
+      "Derk\u2010Jan Dijk"
+    ],
+    "year": 2016,
+    "journal": "Proceedings of the National Academy of Sciences",
+    "doi_or_url": "https://doi.org/10.1073/pnas.1521637113",
+    "citation_count": 285,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W304559357",
+    "title": "Banking Sleep: Realization of Benefits During Subsequent Sleep Restriction and Recovery",
+    "authors": [
+      "Tracy L. Rupp",
+      "Nancy J. Wesensten",
+      "Paul D. Bliese",
+      "Thomas J. Balkin"
+    ],
+    "year": 2009,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/32.3.311",
+    "citation_count": 271,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2018130030",
+    "title": "Sleep Restriction Therapy for Insomnia is Associated with Reduced Objective Total Sleep Time, Increased Daytime Somnolence, and Objectively Impaired Vigilance: Implications for the Clinical Management of Insomnia Disorder",
+    "authors": [
+      "Simon D. Kyle",
+      "Christopher B. Miller",
+      "Zoe Rogers",
+      "A Niroshan Siriwardena",
+      "Kenneth Macmahon",
+      "Colin A. Espie"
+    ],
+    "year": 2014,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.5665/sleep.3386",
+    "citation_count": 205,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2253283348",
+    "title": "Laboratory and Field Studies of Naps and Caffeine as Practical Countermeasures For Sleep-Wake Problems Associated With Night Work",
+    "authors": [
+      "Paula K. Schweitzer",
+      "Angela C. Randazzo",
+      "Kara Stone",
+      "Milton K. Erman",
+      "James K. Walsh"
+    ],
+    "year": 2006,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/29.1.39",
+    "citation_count": 205,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2071318506",
+    "title": "Simulation Study of Rested Versus\u00a0 Sleep-deprived Anesthesiologists",
+    "authors": [
+      "Steven K. Howard",
+      "David M. Gaba",
+      "Brian E. Smith",
+      "Matthew B. Weinger",
+      "Christopher M. Herndon",
+      "Shanthala Keshavacharya",
+      "Mark R. Rosekind"
+    ],
+    "year": 2003,
+    "journal": "Anesthesiology",
+    "doi_or_url": "https://doi.org/10.1097/00000542-200306000-00008",
+    "citation_count": 200,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2902491141",
+    "title": "Non-image forming effects of illuminance and correlated color temperature of office light on alertness, mood, and performance across cognitive domains",
+    "authors": [
+      "Taotao Ru",
+      "Yvonne de Kort",
+      "K.C.H.J. Smolders",
+      "Qingwei Chen",
+      "Guofu Zhou"
+    ],
+    "year": 2018,
+    "journal": "Building and Environment",
+    "doi_or_url": "https://doi.org/10.1016/j.buildenv.2018.12.002",
+    "citation_count": 190,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2898117192",
+    "title": "The effects of time of day and chronotype on cognitive and physical performance in healthy volunteers",
+    "authors": [
+      "Elise R. Facer\u2010Childs",
+      "Sophie Boiling",
+      "George M. Balanos"
+    ],
+    "year": 2018,
+    "journal": "Sports Medicine - Open",
+    "doi_or_url": "https://doi.org/10.1186/s40798-018-0162-z",
+    "citation_count": 189,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2149873617",
+    "title": "Shift work: health, performance and safety problems, traditional countermeasures, and innovative management strategies to reduce circadian misalignment",
+    "authors": [
+      "Charmane I. Eastman",
+      "Smith"
+    ],
+    "year": 2012,
+    "journal": "Nature and Science of Sleep",
+    "doi_or_url": "https://doi.org/10.2147/nss.s10372",
+    "citation_count": 168,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2159577274",
+    "title": "Neural and Behavioral Correlates of Extended Training during Sleep Deprivation in Humans: Evidence for Local, Task-Specific Effects",
+    "authors": [
+      "Giulio Bernardi",
+      "Francesca Siclari",
+      "Xiaoqian Yu",
+      "Corinna Zennig",
+      "Michele Bellesi",
+      "Emiliano Ricciardi",
+      "Chiara Cirelli",
+      "Maria Felice Ghilardi",
+      "Pietro Pietrini",
+      "Giulio Tononi"
+    ],
+    "year": 2015,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.4567-14.2015",
+    "citation_count": 166,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2098748797",
+    "title": "PC-PVT: A platform for psychomotor vigilance task testing, analysis, and prediction",
+    "authors": [
+      "Maxim Y. Khitrov",
+      "S. Laxminarayan",
+      "David Thorsley",
+      "Sridhar Ramakrishnan",
+      "Srinivasan Rajaraman",
+      "Nancy J. Wesensten",
+      "Jaques Reifman"
+    ],
+    "year": 2013,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-013-0339-9",
+    "citation_count": 164,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2969273821",
+    "title": "&lt;p&gt;Sleep inertia: current insights&lt;/p&gt;",
+    "authors": [
+      "Cassie J. Hilditch",
+      "Andrew W. McHill"
+    ],
+    "year": 2019,
+    "journal": "Nature and Science of Sleep",
+    "doi_or_url": "https://doi.org/10.2147/nss.s188911",
+    "citation_count": 158,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1979082911",
+    "title": "Cognitive Performance and Heart Rate Variability: The Influence of Fitness Level",
+    "authors": [
+      "Antonio Luque\u2010Casado",
+      "M\u00edkel Zabala",
+      "Esther Morales",
+      "Manuel Mateo\u2010March",
+      "Daniel Sanabria"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0056935",
+    "citation_count": 155,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2510813512",
+    "title": "Sleep recalibrates homeostatic and associative synaptic plasticity in the human cortex",
+    "authors": [
+      "Marion K\u00fchn",
+      "Elias Wolf",
+      "Jonathan G. Maier",
+      "F Mainberger",
+      "Bernd Feige",
+      "Hanna Schmid",
+      "Jan B\u00fcrklin",
+      "Sarah Maywald",
+      "Volker Mall",
+      "Nikolai H. Jung",
+      "Janine Reis",
+      "Kai Spiegelhalder"
+    ],
+    "year": 2016,
+    "journal": "Nature Communications",
+    "doi_or_url": "https://doi.org/10.1038/ncomms12455",
+    "citation_count": 155,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2104596915",
+    "title": "PER3 Polymorphism Predicts Cumulative Sleep Homeostatic but Not Neurobehavioral Changes to Chronic Partial Sleep Deprivation",
+    "authors": [
+      "Namni Goel",
+      "Siobhan Banks",
+      "Emmanuel Mignot",
+      "David F. Dinges"
+    ],
+    "year": 2009,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0005874",
+    "citation_count": 153,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2135859448",
+    "title": "Acute Sleep Deprivation and Circadian Misalignment Associated with Transition onto the First Night of Work Impairs Visual Selective Attention",
+    "authors": [
+      "Nayantara Santhi",
+      "Todd S. Horowitz",
+      "Jeanne F. Duffy",
+      "Charles A. Czeisler"
+    ],
+    "year": 2007,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0001233",
+    "citation_count": 152,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2015122749",
+    "title": "Age-Related Changes in Sleep and Circadian Rhythms: Impact on Cognitive Performance and Underlying Neuroanatomical Networks",
+    "authors": [
+      "Christina Schmidt",
+      "Philippe Peigneux",
+      "Christian Cajochen"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Neurology",
+    "doi_or_url": "https://doi.org/10.3389/fneur.2012.00118",
+    "citation_count": 151,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2129001459",
+    "title": "Increased Sleep Fragmentation Leads to Impaired Off-Line Consolidation of Motor Memories in Humans",
+    "authors": [
+      "Ina Djonlagic",
+      "Julian P. Saboisky",
+      "Andrea L. Carusona",
+      "Robert Stickgold",
+      "Atul Malhotra"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0034106",
+    "citation_count": 140,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2586552311",
+    "title": "Human and rat gut microbiome composition is maintained following sleep restriction",
+    "authors": [
+      "Shirley Zhang",
+      "Lei Bai",
+      "Namni Goel",
+      "Aubrey Bailey",
+      "Christopher J. Jang",
+      "Frederic D. Bushman",
+      "Peter Meerlo",
+      "David F. Dinges",
+      "Amita Sehgal"
+    ],
+    "year": 2017,
+    "journal": "Proceedings of the National Academy of Sciences",
+    "doi_or_url": "https://doi.org/10.1073/pnas.1620673114",
+    "citation_count": 139,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1775573083",
+    "title": "Objective and subjective measures of sleepiness, and their associations with on\u2010road driving events in shift workers",
+    "authors": [
+      "Suzanne Ftouni",
+      "Tracey L. Sletten",
+      "Mark E. Howard",
+      "Clare Anderson",
+      "Michael G. Lenn\u00e9",
+      "Steven W. Lockley",
+      "Shantha M. W. Rajaratnam"
+    ],
+    "year": 2012,
+    "journal": "Journal of Sleep Research",
+    "doi_or_url": "https://doi.org/10.1111/j.1365-2869.2012.01038.x",
+    "citation_count": 138,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4378980559",
+    "title": "Augmenting hippocampal\u2013prefrontal neuronal synchrony during sleep enhances memory consolidation in humans",
+    "authors": [
+      "Maya Geva\u2010Sagiv",
+      "Emily A. Mankin",
+      "Dawn Eliashiv",
+      "Shdema Epstein",
+      "Natalie Cherry",
+      "G\u00fcldamla Kalender",
+      "Natalia Tchemodanov",
+      "Yuval Nir",
+      "Itzhak Fried"
+    ],
+    "year": 2023,
+    "journal": "Nature Neuroscience",
+    "doi_or_url": "https://doi.org/10.1038/s41593-023-01324-5",
+    "citation_count": 138,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2912284734",
+    "title": "Effects of circadian misalignment on cognition in chronic shift workers",
+    "authors": [
+      "Sarah L. Chellappa",
+      "Christopher J. Morris",
+      "Frank A. J. L. Scheer"
+    ],
+    "year": 2019,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-018-36762-w",
+    "citation_count": 132,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2158979070",
+    "title": "Rotating Shiftwork Schedules: Can We Enhance Physician Adaptation to Night Shifts?",
+    "authors": [
+      "Rebecca Smith\u2010Coggins",
+      "Mark R. Rosekind",
+      "Kenneth R. Buccino",
+      "David F. Dinges",
+      "Richard P. Moser"
+    ],
+    "year": 1997,
+    "journal": "Academic Emergency Medicine",
+    "doi_or_url": "https://doi.org/10.1111/j.1553-2712.1997.tb03658.x",
+    "citation_count": 130,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2944722412",
+    "title": "Resetting the late timing of \u2018night owls\u2019 has a positive impact on mental health and performance",
+    "authors": [
+      "Elise R. Facer\u2010Childs",
+      "Benita Middleton",
+      "Debra J. Skene",
+      "Andrew P. Bagshaw"
+    ],
+    "year": 2019,
+    "journal": "Sleep Medicine",
+    "doi_or_url": "https://doi.org/10.1016/j.sleep.2019.05.001",
+    "citation_count": 128,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2472287866",
+    "title": "3-minute smartphone-based and tablet-based psychomotor vigilance tests for the assessment of reduced alertness due to sleep deprivation",
+    "authors": [
+      "Devon A. Grant",
+      "Kimberly A. Honn",
+      "Matthew E. Layton",
+      "Samantha M. Riedy",
+      "Hans P. A. Van Dongen"
+    ],
+    "year": 2016,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-016-0763-8",
+    "citation_count": 115,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2085187178",
+    "title": "Cholinergic Augmentation Modulates Visual Task Performance in Sleep-Deprived Young Adults",
+    "authors": [
+      "Lisa Y.M. Chuah",
+      "Michael W.L. Chee"
+    ],
+    "year": 2008,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.4045-08.2008",
+    "citation_count": 114,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2031715874",
+    "title": "The Vigilance Decrement in Executive Function Is Attenuated When Individual Chronotypes Perform at Their Optimal Time of Day",
+    "authors": [
+      "Tania Lara",
+      "Juan Antonio Madrid",
+      "\u00c1ngel Correa"
+    ],
+    "year": 2014,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0088820",
+    "citation_count": 113,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2169425412",
+    "title": "The Effect of One Night's Sleep Deprivation on Adolescent Neurobehavioral Performance",
+    "authors": [
+      "Mia Louca",
+      "Michelle A. Short"
+    ],
+    "year": 2014,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.5665/sleep.4174",
+    "citation_count": 110,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W95798967",
+    "title": "Sleep-Disordered Breathing and Psychomotor Vigilance in a Community-Based Sample",
+    "authors": [
+      "Hyon Kim",
+      "David F. Dinges",
+      "Terry Young"
+    ],
+    "year": 2007,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/30.10.1309",
+    "citation_count": 104,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2061486418",
+    "title": "Heritability of Performance Deficit Accumulation During Acute Sleep Deprivation in Twins",
+    "authors": [
+      "Samuel T. Kuna",
+      "Greg Maislin",
+      "Frances M. Pack",
+      "Bethany Staley",
+      "Robert Hachadoorian",
+      "Emil F. Coccaro",
+      "Allan I Pack"
+    ],
+    "year": 2012,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.5665/sleep.2074",
+    "citation_count": 100,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1972099418",
+    "title": "Altered Emotion Perception in Insomnia Disorder",
+    "authors": [
+      "Simon D. Kyle",
+      "Louise Beattie",
+      "Kai Spiegelhalder",
+      "Zoe Rogers",
+      "Colin A. Espie"
+    ],
+    "year": 2014,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.5665/sleep.3588",
+    "citation_count": 99,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2134167564",
+    "title": "Caffeine improves reaction time, vigilance and logical reasoning during extended periods with restricted opportunities for sleep",
+    "authors": [
+      "Gary H. Kamimori",
+      "Tom M. McLellan",
+      "Charmaine Tate",
+      "David Voss",
+      "Phil Niro",
+      "Harris R. Lieberman"
+    ],
+    "year": 2014,
+    "journal": "Psychopharmacology",
+    "doi_or_url": "https://doi.org/10.1007/s00213-014-3834-5",
+    "citation_count": 99,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2273481870",
+    "title": "Temporal integration of light flashes by the human circadian system",
+    "authors": [
+      "Raymond P. Najjar",
+      "Jamie M. Zeitzer"
+    ],
+    "year": 2016,
+    "journal": "Journal of Clinical Investigation",
+    "doi_or_url": "https://doi.org/10.1172/jci82306",
+    "citation_count": 98,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2024563693",
+    "title": "<i>DQB1*0602</i> predicts interindividual differences in physiologic sleep, sleepiness, and fatigue",
+    "authors": [
+      "Namni Goel",
+      "Siobhan Banks",
+      "Emmanuel Mignot",
+      "David F. Dinges"
+    ],
+    "year": 2010,
+    "journal": "Neurology",
+    "doi_or_url": "https://doi.org/10.1212/wnl.0b013e3181f9615d",
+    "citation_count": 93,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2123874467",
+    "title": "The Effects of Two Types of Sleep Deprivation on Visual Working Memory Capacity and Filtering Efficiency",
+    "authors": [
+      "Sean P. A. Drummond",
+      "Dane E. Anderson",
+      "Laura D. Straus",
+      "Edward K. Vogel",
+      "Veronica B. Perez"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0035653",
+    "citation_count": 93,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4303030577",
+    "title": "The Theta Paradox: 4-8 Hz EEG Oscillations Reflect Both Sleep Pressure and Cognitive Control",
+    "authors": [
+      "Sophia Snipes",
+      "Elena Krugliakova",
+      "Elias Meier",
+      "Reto Huber"
+    ],
+    "year": 2022,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1063-22.2022",
+    "citation_count": 91,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2884585892",
+    "title": "Young adults are more vulnerable to chronic sleep deficiency and recurrent circadian disruption than older adults",
+    "authors": [
+      "Kirsi\u2010Marja Zitting",
+      "Mirjam M\u00fcnch",
+      "Sean W. Cain",
+      "Wei Wang",
+      "Arick Wong",
+      "Joseph M. Ronda",
+      "Daniel Aeschbach",
+      "Charles A. Czeisler",
+      "Jeanne F. Duffy"
+    ],
+    "year": 2018,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-018-29358-x",
+    "citation_count": 91,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2605030589",
+    "title": "Recovery sleep after extended wakefulness restores elevated A <sub>1</sub> adenosine receptor availability in the human brain",
+    "authors": [
+      "David Elmenhorst",
+      "Eva\u2010Maria Elmenhorst",
+      "Eva Hennecke",
+      "Tina Kroll",
+      "Andreas Matusch",
+      "Daniel Aeschbach",
+      "Andreas Bauer"
+    ],
+    "year": 2017,
+    "journal": "Proceedings of the National Academy of Sciences",
+    "doi_or_url": "https://doi.org/10.1073/pnas.1614677114",
+    "citation_count": 90,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4200550203",
+    "title": "Physiological signal-based drowsiness detection using machine learning: Singular and hybrid signal approaches",
+    "authors": [
+      "Md. Mahmudul Hasan",
+      "Christopher N. Watling",
+      "Gr\u00e9goire S. Larue"
+    ],
+    "year": 2021,
+    "journal": "Journal of Safety Research",
+    "doi_or_url": "https://doi.org/10.1016/j.jsr.2021.12.001",
+    "citation_count": 89,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2123573684",
+    "title": "Optimization of Biomathematical Model Predictions for Cognitive Performance Impairment in Individuals: Accounting for Unknown Traits and Uncertain States in Homeostatic and Circadian Processes",
+    "authors": [
+      "Hans P. A. Van Dongen",
+      "Christopher G. Mott",
+      "Jen-Kuang Huang",
+      "Daniel J. Mollicone",
+      "Frederic D. McKenzie",
+      "David F. Dinges"
+    ],
+    "year": 2007,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/30.9.1129",
+    "citation_count": 87,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2144997610",
+    "title": "Dynamic Circadian Modulation in a Biomathematical Model for the Effects of Sleep and Sleep Loss on Waking Neurobehavioral Performance",
+    "authors": [
+      "Peter McCauley",
+      "Leonid Kalachev",
+      "Daniel J. Mollicone",
+      "Siobhan Banks",
+      "David F. Dinges",
+      "Hans P. A. Van Dongen"
+    ],
+    "year": 2013,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.5665/sleep.3246",
+    "citation_count": 87,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2045857372",
+    "title": "Pharmacogenetics of Modafinil After Sleep Loss: Catechol-O-Methyltransferase Genotype Modulates Waking Functions But Not Recovery Sleep",
+    "authors": [
+      "Sereina Bodenmann",
+      "Xu S",
+      "UFO Luhmann",
+      "Michael Arand",
+      "Wolfgang Berger",
+      "HH Jung",
+      "Hans\u2010Peter Landolt"
+    ],
+    "year": 2008,
+    "journal": "Clinical Pharmacology & Therapeutics",
+    "doi_or_url": "https://doi.org/10.1038/clpt.2008.222",
+    "citation_count": 86,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W311197263",
+    "title": "Cognitive Performance Is Related to CentralSensitization and Health-related Quality of Lifein Patients with Chronic Whiplash-AssociatedDisorders and Fibromyalgia",
+    "authors": [
+      "Mira Meeus"
+    ],
+    "year": 2015,
+    "journal": "Pain Physician",
+    "doi_or_url": "https://doi.org/10.36076/ppj.2015/18/e389",
+    "citation_count": 86,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2245518340",
+    "title": "PVT Lapses Differ According To Eyes Open, Closed, or Looking Away",
+    "authors": [
+      "Clare Anderson",
+      "Alan W.J. Wales",
+      "James A. Home"
+    ],
+    "year": 2010,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/33.2.197",
+    "citation_count": 81,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2980382351",
+    "title": "Cognitive Enhancement by Transcranial Photobiomodulation Is Associated With Cerebrovascular Oxygenation of the Prefrontal Cortex",
+    "authors": [
+      "Emma Holmes",
+      "Douglas W. Barrett",
+      "Celeste L. Saucedo",
+      "Patrick J. O\u2019Connor",
+      "Hanli Liu",
+      "F. Gonzalez\u2010Lima"
+    ],
+    "year": 2019,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2019.01129",
+    "citation_count": 80,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2790063809",
+    "title": "Towards an Objective Measure of Mindfulness: Replicating and Extending the Features of the Breath-Counting Task",
+    "authors": [
+      "Kian Foong Wong",
+      "Stijn A. A. Massar",
+      "Michael W.L. Chee",
+      "Julian Lim"
+    ],
+    "year": 2018,
+    "journal": "Mindfulness",
+    "doi_or_url": "https://doi.org/10.1007/s12671-017-0880-1",
+    "citation_count": 79,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2060243963",
+    "title": "Cerebral Perfusion Differences Between Drowsy and Nondrowsy Individuals After Acute Sleep Restriction",
+    "authors": [
+      "Govinda Poudel",
+      "Carrie Innes",
+      "Richard D. Jones"
+    ],
+    "year": 2012,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.5665/sleep.1994",
+    "citation_count": 77,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2140462308",
+    "title": "Performance vigilance task and sleepiness in patients with sleep-disordered breathing",
+    "authors": [
+      "E. Sforza",
+      "Jos\u00e9 Haba\u2010Rubio",
+      "Fabienne de Bilbao",
+      "Thierry Rochat",
+      "V. Ibanez"
+    ],
+    "year": 2004,
+    "journal": "European Respiratory Journal",
+    "doi_or_url": "https://doi.org/10.1183/09031936.04.00091903",
+    "citation_count": 75,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2022685754",
+    "title": "Apnea-Induced Rapid Eye Movement Sleep Disruption Impairs Human Spatial Navigational Memory",
+    "authors": [
+      "Andrew W. Varga",
+      "Akifumi Kishi",
+      "Janna Mantua",
+      "Jason Wei Jun Lim",
+      "Viachaslau Koushyk",
+      "David P. Leibert",
+      "Ricardo S. Osorio",
+      "David M. Rapoport",
+      "Indu Ayappa"
+    ],
+    "year": 2014,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3220-14.2014",
+    "citation_count": 74,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2020804413",
+    "title": "The sensitivity of a palm-based psychomotor vigilance task to severe sleep loss",
+    "authors": [
+      "Nicole Lamond",
+      "Sarah M. Jay",
+      "Jillian Dorrian",
+      "Sally A. Ferguson",
+      "Gregory D. Roach",
+      "Drew Dawson\u2225"
+    ],
+    "year": 2008,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/brm.40.1.347",
+    "citation_count": 71,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2120362386",
+    "title": "Donepezil Improves Episodic Memory in Young Individuals Vulnerable to the Effects of Sleep Deprivation",
+    "authors": [
+      "Lisa Y.M. Chuah",
+      "Delise Chong",
+      "Annette K. Chen",
+      "William Rekshan",
+      "Jiat-Chow Tan",
+      "Hui Zheng",
+      "Michael W.L. Chee"
+    ],
+    "year": 2009,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/32.8.999",
+    "citation_count": 71,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2510353128",
+    "title": "Mobile manifestations of alertness",
+    "authors": [
+      "Elizabeth L. Murnane",
+      "Saeed Abdullah",
+      "Mark Matthews",
+      "Matthew Kay",
+      "Julie A. Kientz",
+      "Tanzeem Choudhury",
+      "Geri Gay",
+      "Dan Cosley"
+    ],
+    "year": 2016,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.1145/2935334.2935383",
+    "citation_count": 71,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2571834479",
+    "title": "Low doses of mirtazapine or quetiapine for transient insomnia: A randomised, double-blind, cross-over, placebo-controlled trial",
+    "authors": [
+      "Julie Karsten",
+      "Loes A. Hagenauw",
+      "Jeanine Kamphuis",
+      "Marike Lancel"
+    ],
+    "year": 2017,
+    "journal": "Journal of Psychopharmacology",
+    "doi_or_url": "https://doi.org/10.1177/0269881116681399",
+    "citation_count": 70,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1971816995",
+    "title": "Napping Reverses Increased Pain Sensitivity Due to Sleep Restriction",
+    "authors": [
+      "Brice Faraut",
+      "Damien L\u00e9ger",
+      "Terkia Medkour",
+      "Alexandre Dubois",
+      "Virginie Bayon",
+      "Mounir Chennaoui",
+      "Serge Perrot"
+    ],
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0117425",
+    "citation_count": 70,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2604282804",
+    "title": "Tired and misconnected: A breakdown of brain modularity following sleep deprivation",
+    "authors": [
+      "Eti Ben Simon",
+      "Adi Maron\u2010Katz",
+      "Nir Lahav",
+      "Ron Shamir",
+      "Talma Hendler"
+    ],
+    "year": 2017,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.23596",
+    "citation_count": 68,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3030800244",
+    "title": "Pharmacokinetics, Pharmacodynamics, and Safety of the Dual Orexin Receptor Antagonist Lemborexant: Findings From Single\u2010Dose and Multiple\u2010Ascending\u2010Dose Phase 1 Studies in Healthy Adults",
+    "authors": [
+      "Ishani Landry",
+      "Kenya Nakai",
+      "Jim Ferry",
+      "Jagadeesh Aluri",
+      "Nancy Hall",
+      "Bojan Lalovic",
+      "Margaret Moline"
+    ],
+    "year": 2020,
+    "journal": "Clinical Pharmacology in Drug Development",
+    "doi_or_url": "https://doi.org/10.1002/cpdd.817",
+    "citation_count": 66,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1971677166",
+    "title": "Dopaminergic Polymorphisms Associated with Time-on-Task Declines and Fatigue in the Psychomotor Vigilance Test",
+    "authors": [
+      "Julian Lim",
+      "Richard P. Ebstein",
+      "Chun\u2010Yu Tse",
+      "Mikhail Monakhov",
+      "Poh San Lai",
+      "David F. Dinges",
+      "Kenneth Kwok"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0033767",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2938402066",
+    "title": "Individual differences in baseline oculometrics: Examining variation in baseline pupil diameter, spontaneous eye blink rate, and fixation stability",
+    "authors": [
+      "Nash Unsworth",
+      "Matthew K. Robison",
+      "Ashley L. Miller"
+    ],
+    "year": 2019,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-019-00709-z",
+    "citation_count": 64,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2120586681",
+    "title": "Obstructive sleep apnea and psychomotor vigilance task performance",
+    "authors": [
+      "Salma Batool\u2010Anwar",
+      "Stefanos N. Kales",
+      "Vasileia Varvarigou",
+      "Pamela DeYoung",
+      "Atul Malhotra",
+      "Sanjay R. Patel"
+    ],
+    "year": 2014,
+    "journal": "Nature and Science of Sleep",
+    "doi_or_url": "https://doi.org/10.2147/nss.s53721",
+    "citation_count": 64,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3092698046",
+    "title": "Nurses and Night Shifts: Poor Sleep Quality Exacerbates Psychomotor Performance",
+    "authors": [
+      "Marco Di Muzio",
+      "Giulia Diella",
+      "Emanuele Di Simone",
+      "Luana Novelli",
+      "Valentina Alfonsi",
+      "Serena Scarpelli",
+      "Ludovica Annarumma",
+      "Federico Salfi",
+      "Mariella Pazzaglia",
+      "Anna Maria Giannini",
+      "Luigi De Gennaro"
+    ],
+    "year": 2020,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2020.579938",
+    "citation_count": 63,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2124637688",
+    "title": "Meditation acutely improves psychomotor vigilance, and may decrease sleep need",
+    "authors": [
+      "Prashant Kaul",
+      "Jason Passafiume",
+      "Robert Craig Sargent",
+      "Bruce F. O\u2019Hara"
+    ],
+    "year": 2010,
+    "journal": "Behavioral and Brain Functions",
+    "doi_or_url": "https://doi.org/10.1186/1744-9081-6-47",
+    "citation_count": 63,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2097083699",
+    "title": "PVT-Touch: Adapting a Reaction Time Test for Touchscreen Devices",
+    "authors": [
+      "Matthew Kay",
+      "Kyle Rector",
+      "Sunny Consolvo",
+      "Ben Greenstein",
+      "Jacob O. Wobbrock",
+      "Nathaniel F. Watson",
+      "Julie A. Kientz"
+    ],
+    "year": 2013,
+    "journal": "Proceedings of the ICTs for improving Patients Rehabilitation Research Techniques",
+    "doi_or_url": "https://doi.org/10.4108/icst.pervasivehealth.2013.252078",
+    "citation_count": 63,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2110552089",
+    "title": "Sensitivity and Validity of Psychometric Tests for Assessing Driving Impairment: Effects of Sleep Deprivation",
+    "authors": [
+      "Stefan Jongen",
+      "Joy Perrier",
+      "Eric Vuurman",
+      "Johannes G. Ramaekers",
+      "Annemiek Vermeeren"
+    ],
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0117045",
+    "citation_count": 63,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1492623853",
+    "title": "Sleep Deprivation in Rats Produces Attentional Impairments on a 5-Choice Serial Reaction Time Task",
+    "authors": [
+      "Christopher A C\u00f3rdova",
+      "Bishoy Said",
+      "Robert W. McCarley",
+      "Mark G. Baxter",
+      "Andrea A. Chiba",
+      "Robert E. Strecker"
+    ],
+    "year": 2006,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/29.1.69",
+    "citation_count": 61,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2900471169",
+    "title": "Bright environmental light improves the sleepiness of nightshift ICU nurses",
+    "authors": [
+      "John E. Griepentrog",
+      "Hanna E. Labiner",
+      "Scott R. Gunn",
+      "Matthew R. Rosengart"
+    ],
+    "year": 2018,
+    "journal": "Critical Care",
+    "doi_or_url": "https://doi.org/10.1186/s13054-018-2233-4",
+    "citation_count": 60,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3021620141",
+    "title": "The effect of caffeine on cognitive performance is influenced by CYP1A2 but not ADORA2A genotype, yet neither genotype affects exercise performance in healthy adults",
+    "authors": [
+      "Alexander T. Carswell",
+      "Kevin Howland",
+      "Borja Martinez\u2010Gonzalez",
+      "Pauline Baron",
+      "Glen Davison"
+    ],
+    "year": 2020,
+    "journal": "European Journal of Applied Physiology",
+    "doi_or_url": "https://doi.org/10.1007/s00421-020-04384-8",
+    "citation_count": 60,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4309714573",
+    "title": "Impact of Sleep Fragmentation on Cognition and Fatigue",
+    "authors": [
+      "Ouma\u00efma Benkirane",
+      "B\u00e9r\u00e9nice Delwiche",
+      "Olivier Ma\u00eeresse",
+      "Philippe Peigneux"
+    ],
+    "year": 2022,
+    "journal": "International Journal of Environmental Research and Public Health",
+    "doi_or_url": "https://doi.org/10.3390/ijerph192315485",
+    "citation_count": 59,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2190662555",
+    "title": "Deficits in Sustained Attention and Changes in Dopaminergic Protein Levels following Exposure to Proton Radiation Are Related to Basal Dopaminergic Function",
+    "authors": [
+      "Catherine M. Davis",
+      "Kathleen DeCicco-Skinner",
+      "Robert D. Hienz"
+    ],
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0144556",
+    "citation_count": 59,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1485430196",
+    "title": "Sleep deprivation selectively disrupts top\u2013down adaptation to cognitive conflict in the Stroop test",
+    "authors": [
+      "Wim Gevers",
+      "Ga\u00e9tane Deliens",
+      "Sophie Hoffmann",
+      "Wim Notebaert",
+      "Philippe Peigneux"
+    ],
+    "year": 2015,
+    "journal": "Journal of Sleep Research",
+    "doi_or_url": "https://doi.org/10.1111/jsr.12320",
+    "citation_count": 58,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3103793244",
+    "title": "Residual, differential neurobehavioral deficits linger after multiple recovery nights following chronic sleep restriction or acute total sleep deprivation",
+    "authors": [
+      "Erika Yamazaki",
+      "Caroline Antler",
+      "Charlotte R Lasek",
+      "Namni Goel"
+    ],
+    "year": 2020,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/zsaa224",
+    "citation_count": 57,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4308891073",
+    "title": "Brain Endurance Training Improves Physical, Cognitive, and Multitasking Performance in Professional Football Players",
+    "authors": [
+      "Walter Staiano",
+      "Michele Merlini",
+      "Marco Romagnoli",
+      "Ulrich Kirk",
+      "Christopher Ring",
+      "Samuele Marcora"
+    ],
+    "year": 2022,
+    "journal": "International Journal of Sports Physiology and Performance",
+    "doi_or_url": "https://doi.org/10.1123/ijspp.2022-0144",
+    "citation_count": 56,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1963690660",
+    "title": "Towards a Near Infrared Spectroscopy-Based Estimation of Operator Attentional State",
+    "authors": [
+      "G\u00e9rard Derosi\u00e8re",
+      "Sami Dalhoumi",
+      "St\u00e9phane Perrey",
+      "G\u00e9rard Dray",
+      "Tom\u00e1s Ward"
+    ],
+    "year": 2014,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0092045",
+    "citation_count": 56,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2025912164",
+    "title": "Effect of Modafinil on Impairments in Neurobehavioral Performance and Learning Associated with Extended Wakefulness and Circadian Misalignment",
+    "authors": [
+      "Scott Grady",
+      "Daniel Aeschbach",
+      "Kenneth P. Wright",
+      "Charles A. Czeisler"
+    ],
+    "year": 2010,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1038/npp.2010.63",
+    "citation_count": 56,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2140211350",
+    "title": "Slow Wave Sleep Enhancement with Gaboxadol Reduces Daytime Sleepiness During Sleep Restriction",
+    "authors": [
+      "James K. Walsh",
+      "Ellen Snyder",
+      "Janine Hall",
+      "Angela C. Randazzo",
+      "Kara Griffin",
+      "John A. Groeger",
+      "Rhody D. Eisenstein",
+      "Stephen D. Feren",
+      "Pam Dickey",
+      "Paula K. Schweitzer"
+    ],
+    "year": 2008,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/31.5.659",
+    "citation_count": 56,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2033650004",
+    "title": "Catechol-O-Methyltransferase Val158Met Polymorphism Associates with Individual Differences in Sleep Physiologic Responses to Chronic Sleep Loss",
+    "authors": [
+      "Namni Goel",
+      "Siobhan Banks",
+      "Ling Lin",
+      "Emmanuel Mignot",
+      "David F. Dinges"
+    ],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0029283",
+    "citation_count": 55,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2741298888",
+    "title": "Attentional disengagements in educational contexts: a diary investigation of everyday mind-wandering and distraction",
+    "authors": [
+      "Nash Unsworth",
+      "Brittany D. McMillan"
+    ],
+    "year": 2017,
+    "journal": "Cognitive Research Principles and Implications",
+    "doi_or_url": "https://doi.org/10.1186/s41235-017-0070-7",
+    "citation_count": 54,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2766542192",
+    "title": "Healthy Adults Display Long-Term Trait-Like Neurobehavioral Resilience and Vulnerability to Sleep Loss",
+    "authors": [
+      "Laura Dennis",
+      "Rachael J. Wohl",
+      "Lauren Selame",
+      "Namni Goel"
+    ],
+    "year": 2017,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-017-14006-7",
+    "citation_count": 54,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2053129765",
+    "title": "TNF\u03b1 G308A polymorphism is associated with resilience to sleep deprivation-induced psychomotor vigilance performance impairment in healthy young adults",
+    "authors": [
+      "Brieann C. Satterfield",
+      "Jonathan P. Wisor",
+      "Stephanie A. Field",
+      "Michelle Schmidt",
+      "Hans P. A. Van Dongen"
+    ],
+    "year": 2014,
+    "journal": "Brain Behavior and Immunity",
+    "doi_or_url": "https://doi.org/10.1016/j.bbi.2014.12.009",
+    "citation_count": 54,
+    "is_high_impact": false,
+    "open_access": false,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1453699196",
+    "title": "Rapid-Eye-Movement-Sleep (REM) Associated Enhancement of Working Memory Performance after a Daytime Nap",
+    "authors": [
+      "Esther Yuet Ying Lau",
+      "Mark Lawrence Wong",
+      "Kristy Nga Ting Lau",
+      "F Hui",
+      "Chia\u2010huei Tseng"
+    ],
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0125752",
+    "citation_count": 53,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2167904906",
+    "title": "Reduced Neurobehavioral Impairment from Sleep Deprivation in Older Adults: Contribution of Adenosinergic Mechanisms",
+    "authors": [
+      "Hans\u2010Peter Landolt",
+      "Julia R\u00e9tey",
+      "Martin Adam"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Neurology",
+    "doi_or_url": "https://doi.org/10.3389/fneur.2012.00062",
+    "citation_count": 53,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3034381687",
+    "title": "Sleep quality, occupational factors, and psychomotor vigilance performance in the U.S. Navy sailors",
+    "authors": [
+      "Panagiotis Matsangas",
+      "Nita Lewis Shattuck"
+    ],
+    "year": 2020,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/zsaa118",
+    "citation_count": 53,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2323658202",
+    "title": "Prediction of Vigilant Attention and Cognitive Performance Using Self-Reported Alertness, Circadian Phase, Hours since Awakening, and Accumulated Sleep Loss",
+    "authors": [
+      "Eduardo B. Bermudez",
+      "Elizabeth B. Klerman",
+      "Charles A. Czeisler",
+      "Daniel Cohen",
+      "James K. Wyatt",
+      "Andrew J. K. Phillips"
+    ],
+    "year": 2016,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0151770",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2767843796",
+    "title": "Sleep Deprivation Promotes Habitual Control over Goal-Directed Control: Behavioral and Neuroimaging Evidence",
+    "authors": [
+      "Jie Chen",
+      "Jie Liang",
+      "Xiao Lin",
+      "Yang Zhang",
+      "Yan Zhang",
+      "Lin L\u00fc",
+      "Jie Shi"
+    ],
+    "year": 2017,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1612-17.2017",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2037959412",
+    "title": "Reliability of a Single Objective Measure in Assessing Sleepiness",
+    "authors": [
+      "Bernie Y. Sunwoo",
+      "Nicholas Jackson",
+      "Greg Maislin",
+      "Indira Gurubhagavatula",
+      "Charles F. George",
+      "Allan I Pack"
+    ],
+    "year": 2011,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.5665/sleep.1606",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2889037692",
+    "title": "Analysis of Attention Subdomains in Obstructive Sleep Apnea Patients",
+    "authors": [
+      "Eunice N. Sim\u00f5es",
+      "Catarina S. Padilla",
+      "Marcio S. Bezerra",
+      "Sergio L. Schmidt"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Psychiatry",
+    "doi_or_url": "https://doi.org/10.3389/fpsyt.2018.00435",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3180043482",
+    "title": "A single session of moderate intensity exercise influences memory, endocannabinoids and brain derived neurotrophic factor levels in men",
+    "authors": [
+      "Blanca Marin Bosch",
+      "Aur\u00e9lien Bringard",
+      "Maria Grazia Logrieco",
+      "Estelle Lauer",
+      "Nathalie Imobersteg",
+      "Aur\u00e9lien Thomas",
+      "Guido Ferretti",
+      "Sophie Schwartz",
+      "Kinga Igl\u00f3i"
+    ],
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-021-93813-5",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2755454518",
+    "title": "Psychomotor Vigilance Test and Its Association With Daytime Sleepiness and Inflammation in Sleep Apnea: Clinical Implications",
+    "authors": [
+      "Yun Li",
+      "Alexandros N. Vgontzas",
+      "Ilia Kritikou",
+      "Julio Fern\u00e1ndez\u2010Mendoza",
+      "Maria Basta",
+      "Slobodanka Pejovic",
+      "Jordan Gaines",
+      "Edward O. Bixler"
+    ],
+    "year": 2017,
+    "journal": "Journal of Clinical Sleep Medicine",
+    "doi_or_url": "https://doi.org/10.5664/jcsm.6720",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1845184874",
+    "title": "Inter-Individual Differences in Neurobehavioural Impairment following Sleep Restriction Are Associated with Circadian Rhythm Phase",
+    "authors": [
+      "Tracey L. Sletten",
+      "A. Segal",
+      "Erin E. Flynn\u2010Evans",
+      "Steven W. Lockley",
+      "Shantha M. W. Rajaratnam"
+    ],
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0128273",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4221039819",
+    "title": "Evaluation of a Brief Sleep Intervention Designed to Improve the Sleep, Mood, and Cognitive Performance of Esports Athletes",
+    "authors": [
+      "Daniel Bonnar",
+      "Sangha Lee",
+      "Brandy M. Roane",
+      "Daniel Jin Blum",
+      "Michal Kahn",
+      "Eun Hee Jang",
+      "Ian C. Dunican",
+      "Michael Gradisar",
+      "Sooyeon Suh"
+    ],
+    "year": 2022,
+    "journal": "International Journal of Environmental Research and Public Health",
+    "doi_or_url": "https://doi.org/10.3390/ijerph19074146",
+    "citation_count": 50,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2942608881",
+    "title": "Local sleep-like events during wakefulness and their relationship to decreased alertness in astronauts on ISS",
+    "authors": [
+      "Gaetan Petit",
+      "Ana Maria Cebolla",
+      "Sara Fattinger",
+      "Mathieu Petieau",
+      "Leopold Summerer",
+      "Guy Ch\u00e9ron",
+      "Reto Huber"
+    ],
+    "year": 2019,
+    "journal": "npj Microgravity",
+    "doi_or_url": "https://doi.org/10.1038/s41526-019-0069-0",
+    "citation_count": 50,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3197020303",
+    "title": "The effect of sleep restriction therapy for insomnia on sleep pressure and arousal: a randomized controlled mechanistic trial",
+    "authors": [
+      "Leonie Maurer",
+      "Colin A. Espie",
+      "Ximena Omlin",
+      "Richard Emsley",
+      "Simon D. Kyle"
+    ],
+    "year": 2021,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/zsab223",
+    "citation_count": 50,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2143942743",
+    "title": "The Relationship between Regular Sports Participation and Vigilance in Male and Female Adolescents",
+    "authors": [
+      "Rafael Ballester",
+      "Florentino Huertas",
+      "Francisco Javier Yuste",
+      "Francesc Llorens",
+      "Daniel Sanabria"
+    ],
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0123898",
+    "citation_count": 49,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2120591164",
+    "title": "Job Strain, Sleep and Alertness in Shift Working Health Care Professionals \u2014A Field Study",
+    "authors": [
+      "Kati Karhula",
+      "Mikko H\u00e4rm\u00e4",
+      "Mikael Sallinen",
+      "Christer Hublin",
+      "Jussi Virkkala",
+      "Mika Kivim\u00e4ki",
+      "Jussi Vahtera",
+      "Sampsa Puttonen"
+    ],
+    "year": 2013,
+    "journal": "Industrial Health",
+    "doi_or_url": "https://doi.org/10.2486/indhealth.2013-0015",
+    "citation_count": 49,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2042586755",
+    "title": "Cognitive Workload and Sleep Restriction Interact to Influence Sleep Homeostatic Responses",
+    "authors": [
+      "Namni Goel",
+      "Takashi Abe",
+      "Marcia E. Braun",
+      "David F. Dinges"
+    ],
+    "year": 2014,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.5665/sleep.4164",
+    "citation_count": 48,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3026439898",
+    "title": "Effects of caffeine intake and exercise intensity on executive and arousal vigilance",
+    "authors": [
+      "Carlos Sanch\u00eds",
+      "Esther Blasco",
+      "Fernando Gabriel Luna",
+      "Juan Lupi\u00e1\u00f1ez"
+    ],
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-020-65197-5",
+    "citation_count": 47,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W65523988",
+    "title": "A Measure of Children's Sleep Hygiene",
+    "authors": [
+      "John Harsh",
+      "Angela McCaffrey Easley",
+      "Monique K. LeBourgeois"
+    ],
+    "year": 2002,
+    "journal": "Aquila Digital Community (University of Southern Mississippi)",
+    "doi_or_url": "https://openalex.org/W65523988",
+    "citation_count": 47,
+    "is_high_impact": false,
+    "open_access": false,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2901651419",
+    "title": "Circadian Rhythms in Fractal Features of EEG Signals",
+    "authors": [
+      "Pierpaolo Croce",
+      "Angelica Quercia",
+      "S\u00e9rgio Hofmeister de Almeida Martins Costa",
+      "Filippo Zappasodi"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Physiology",
+    "doi_or_url": "https://doi.org/10.3389/fphys.2018.01567",
+    "citation_count": 46,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2933453616",
+    "title": "Stress and autonomic response to sleep deprivation in medical residents: A comparative cross-sectional study",
+    "authors": [
+      "Jos\u00e9 Morales",
+      "Alexandre Y\u00e1\u00f1ez",
+      "Liria Fern\u00e1ndez\u2010Gonz\u00e1lez",
+      "Llu\u00efsa Montesinos-Magraner",
+      "Adri\u00e0 Marco-Ahull\u00f3",
+      "M\u00f2nica Solana\u2013Tramunt",
+      "Esther Calvete"
+    ],
+    "year": 2019,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0214858",
+    "citation_count": 46,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3092521075",
+    "title": "Differential associations of hypoxia, sleep fragmentation, and depressive symptoms with cognitive dysfunction in obstructive sleep apnea",
+    "authors": [
+      "Ridwan M. Alomri",
+      "Gerard A. Kennedy",
+      "Siraj Wali",
+      "Faris Ahejaili",
+      "Stephen R. Robinson"
+    ],
+    "year": 2020,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/zsaa213",
+    "citation_count": 45,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2327946585",
+    "title": "Exploring the Effect of Sleep and Reduced Interference on Different Forms of Declarative Memory",
+    "authors": [
+      "Monika Sch\u00f6nauer",
+      "Annedore Pawlizki",
+      "Corinna K\u00f6ck",
+      "Steffen Gais"
+    ],
+    "year": 2014,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.5665/sleep.4258",
+    "citation_count": 44,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2793708084",
+    "title": "Positive Effects of Mindfulness-Based Training on Energy Maintenance and the EEG Correlates of Sustained Attention in a Cohort of Nurses",
+    "authors": [
+      "Kian Foong Wong",
+      "James T. C. Teng",
+      "Michael W.L. Chee",
+      "Kinjal Doshi",
+      "Julian Lim"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2018.00080",
+    "citation_count": 44,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2058258014",
+    "title": "Differential effects of online insomnia treatment on executive functions in adolescents",
+    "authors": [
+      "Eduard J. de Bruin",
+      "Julia Dewald\u2010Kaufmann",
+      "Frans J. Oort",
+      "Susan M. B\u00f6gels",
+      "Anne Marie Meijer"
+    ],
+    "year": 2015,
+    "journal": "Sleep Medicine",
+    "doi_or_url": "https://doi.org/10.1016/j.sleep.2014.12.009",
+    "citation_count": 44,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3090768888",
+    "title": "Measuring attention and vigilance in the laboratory vs. online: The split-half reliability of the ANTI-Vea",
+    "authors": [
+      "Fernando Gabriel Luna",
+      "Javier Roca",
+      "Elisa Mart\u00edn\u2010Ar\u00e9valo",
+      "Juan Lupi\u00e1\u00f1ez"
+    ],
+    "year": 2020,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-020-01483-4",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2404118446",
+    "title": "Differential Kinetics in Alteration and Recovery of Cognitive Processes from a Chronic Sleep Restriction in Young Healthy Men",
+    "authors": [
+      "Arnaud Rabat",
+      "Danielle Gomez-M\u00e9rino",
+      "Laura Roca-Paixao",
+      "Cl\u00e9ment Bougard",
+      "Pascal Van Beers",
+      "Garance Dispersyn",
+      "Mathias Guillard",
+      "Cyprien Bourrilhon",
+      "Catherine Drogou",
+      "Pierrick J. Arnal",
+      "Fabien Sauvet",
+      "Damien L\u00e9ger"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnbeh.2016.00095",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2129789883",
+    "title": "The Variable Response-Stimulus Interval Effect and Sleep Deprivation: An Unexplored Aspect of Psychomotor Vigilance Task Performance",
+    "authors": [
+      "Adrienne M. Tucker",
+      "Robert C. Basner",
+      "Yaakov Stern",
+      "Brian C. Rakitin"
+    ],
+    "year": 2009,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/32.10.1393",
+    "citation_count": 42,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2738886460",
+    "title": "The impact of meal timing on performance, sleepiness, gastric upset, and hunger during simulated night shift",
+    "authors": [
+      "Crystal Yates",
+      "Jillian Dorrian",
+      "Alison M. Coates",
+      "Maja Pajcin",
+      "David J. Kennaway",
+      "Gary Wittert",
+      "Leonie K. Heilbronn",
+      "Chris Della Vedova",
+      "Charlotte Gupta",
+      "Siobhan Banks"
+    ],
+    "year": 2017,
+    "journal": "Industrial Health",
+    "doi_or_url": "https://doi.org/10.2486/indhealth.2017-0047",
+    "citation_count": 42,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1995743444",
+    "title": "PRIOR NIGHT SLEEP DURATION IS ASSOCIATED WITH PSYCHOMOTOR VIGILANCE IN A HEALTHY SAMPLE OF POLICE ACADEMY RECRUITS",
+    "authors": [
+      "Thomas C. Neylan",
+      "Thomas J. Metzler",
+      "Clare Henn\u2010Haase",
+      "Yelena Blank",
+      "Gary Tarasovsky",
+      "Shannon E. McCaslin",
+      "Maryann Lenoci",
+      "Charles R. Marmar"
+    ],
+    "year": 2010,
+    "journal": "Chronobiology International",
+    "doi_or_url": "https://doi.org/10.3109/07420528.2010.504992",
+    "citation_count": 42,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1521158196",
+    "title": "The Effects of the Command and Control Vehicle (C2V) Operational Environment on Soldier Health and Performance",
+    "authors": [
+      "Patricia S. Cowings",
+      "William B. Toscano",
+      "C. W. Deroshia",
+      "Richard A. Tauson"
+    ],
+    "year": 1999,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.21236/ada373714",
+    "citation_count": 42,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2883098100",
+    "title": "<i>2B\u2010Alert</i> App: A mobile application for real\u2010time individualized prediction of alertness",
+    "authors": [
+      "Jaques Reifman",
+      "Sridhar Ramakrishnan",
+      "Jianbo Liu",
+      "Adam Kapela",
+      "Tracy Jill Doty",
+      "Thomas J. Balkin",
+      "Kamal Kumar",
+      "Maxim Y. Khitrov"
+    ],
+    "year": 2018,
+    "journal": "Journal of Sleep Research",
+    "doi_or_url": "https://doi.org/10.1111/jsr.12725",
+    "citation_count": 42,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2344726623",
+    "title": "Effects of Shift Work on the Postural and Psychomotor Performance of Night Workers",
+    "authors": [
+      "Fernanda Veruska Narciso",
+      "Jos\u00e9 \u00c2ngelo Barela",
+      "Stefane A. Aguiar",
+      "Adriana N. S. Carvalho",
+      "S\u00e9rgio Tufik",
+      "Marco T\u00falio de Mello"
+    ],
+    "year": 2016,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0151609",
+    "citation_count": 41,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2160202884",
+    "title": "Residual effects of zopiclone 7.5\u00a0mg on highway driving performance in insomnia patients and healthy controls: a placebo controlled crossover study",
+    "authors": [
+      "Tim Leufkens",
+      "Johannes G. Ramaekers",
+      "A.W. de Weerd",
+      "Wim J. Riedel",
+      "Annemiek Vermeeren"
+    ],
+    "year": 2014,
+    "journal": "Psychopharmacology",
+    "doi_or_url": "https://doi.org/10.1007/s00213-014-3447-z",
+    "citation_count": 41,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2896775801",
+    "title": "The wake maintenance zone shows task dependent changes in cognitive function following one night without sleep",
+    "authors": [
+      "William R. McMahon",
+      "Suzanne Ftouni",
+      "Sean P. A. Drummond",
+      "Paul Maruff",
+      "Steven W. Lockley",
+      "Shantha M. W. Rajaratnam",
+      "Clare Anderson"
+    ],
+    "year": 2018,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/zsy148",
+    "citation_count": 41,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2509258559",
+    "title": "Validation of sleep-2-Peak: A smartphone application that can detect fatigue-related changes in reaction times during sleep deprivation",
+    "authors": [
+      "Jean\u2010Fran\u00e7ois Brunet",
+      "D.M. Dagenais",
+      "Marc Therrien",
+      "Daniel Gartenberg",
+      "Genevi\u00e8ve Forest"
+    ],
+    "year": 2016,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-016-0802-5",
+    "citation_count": 40,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2606964637",
+    "title": "Functional Polymorphisms in Dopaminergic Genes Modulate Neurobehavioral and Neurophysiological Consequences of Sleep Deprivation",
+    "authors": [
+      "Sebastian C. Holst",
+      "Thomas M\u00fcller",
+      "Amandine Valomon",
+      "Britta Seebauer",
+      "Wolfgang Berger",
+      "Hans\u2010Peter Landolt"
+    ],
+    "year": 2017,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/srep45982",
+    "citation_count": 40,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]

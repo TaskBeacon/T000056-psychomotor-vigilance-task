@@ -1,0 +1,22 @@
+id: T000056
+slug: psychomotor-vigilance-task
+title: Psychomotor Vigilance Task
+acquisition: behavior
+variant: baseline
+cognitive_domain:
+  - attention
+  - arousal
+  - vigilance
+maturity: draft
+version:
+  release_tag: v0.1.0
+contracts:
+  taps: v0.2.0
+runtime:
+  profile: psyflow
+evidence:
+  - https://doi.org/10.3758/BF03200977
+  - https://doi.org/10.3758/s13428-013-0339-9
+  - https://doi.org/10.1093/sleep/34.5.581
+maintainer:
+  - TaskBeacon

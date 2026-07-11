@@ -1,0 +1,72 @@
+[
+  {
+    "id": "W2008161183",
+    "title": "Microcomputer analyses of performance on a portable, simple visual RT task during sustained operations",
+    "authors": ["David F. Dinges", "John W. Powell"],
+    "year": 1985,
+    "journal": "Behavior Research Methods, Instruments, & Computers",
+    "doi_or_url": "https://doi.org/10.3758/BF03200977",
+    "citation_count": 1767,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": ["canonical_paradigm", "session_duration", "outcome_metrics"],
+    "parameter_bindings": {},
+    "notes": "Original portable visual reaction-time PVT description."
+  },
+  {
+    "id": "W2142478512",
+    "title": "The validity of psychomotor vigilance tasks of less than 10-minute duration",
+    "authors": ["Sylvia Loh", "Nicole Lamond", "Jill Dorrian", "Gregory Roach", "Drew Dawson"],
+    "year": 2004,
+    "journal": "Behavior Research Methods, Instruments, & Computers",
+    "doi_or_url": "https://doi.org/10.3758/BF03195580",
+    "citation_count": 348,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": ["duration_validity", "outcome_metrics"],
+    "parameter_bindings": {},
+    "notes": "Supports the 10-minute reference duration and interpretation of shortened profiles."
+  },
+  {
+    "id": "W143922047",
+    "title": "Maximizing Sensitivity of the Psychomotor Vigilance Test (PVT) to Sleep Loss",
+    "authors": ["Mathias Basner", "David F. Dinges"],
+    "year": 2011,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.1093/sleep/34.5.581",
+    "citation_count": 948,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": ["lapse_definition", "false_start_definition", "summary_metrics"],
+    "parameter_bindings": {},
+    "notes": "Supports standardized PVT outcomes, including lapses and false starts."
+  },
+  {
+    "id": "W2098748797",
+    "title": "PC-PVT: A platform for psychomotor vigilance task testing, analysis, and prediction",
+    "authors": ["Maxim Y. Khitrov", "Srinivas Laxminarayan", "David Thorsley", "Sridhar Ramakrishnan", "Srinivasan Rajaraman", "Nancy J. Wesensten", "Jaques Reifman"],
+    "year": 2013,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-013-0339-9",
+    "citation_count": 164,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": ["stimulus_counter", "isi_timing", "timeout_rule", "feedback_timing", "computer_implementation"],
+    "parameter_bindings": {},
+    "notes": "Primary implementation source for the browser/PC-compatible state machine."
+  },
+  {
+    "id": "W2339586650",
+    "title": "Sex differences in the circadian regulation of sleep and waking cognition in humans",
+    "authors": ["Nayantara Santhi", "Alpar S. Lazar", "Patrick McCabe", "June C. Lo", "John A. Groeger", "Derk-Jan Dijk"],
+    "year": 2016,
+    "journal": "Proceedings of the National Academy of Sciences",
+    "doi_or_url": "https://doi.org/10.1073/pnas.1521637113",
+    "citation_count": 285,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": ["construct_validity", "circadian_sensitivity"],
+    "parameter_bindings": {},
+    "notes": "High-impact open-access evidence for PVT sensitivity to waking cognition and circadian state."
+  }
+]
