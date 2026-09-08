@@ -23,7 +23,7 @@ stimuli:
   good_bye: {type: text, text: "任务完成\n\n有效反应：{valid_count}\n反应遗漏：{lapse_count}\n过早反应：{false_start_count}\n未反应：{no_response_count}\n平均反应时：{mean_rt_ms:.0f} ms\n\n按空格键退出。", color: white, height: 28, wrapWidth: 900, pos: [0, 0], font: SimHei}
 triggers:
   map: {exp_onset: 1, exp_end: 2, block_onset: 10, block_end: 11, isi_onset: 20, false_start_response: 21, target_onset: 30, target_response: 31, target_timeout: 32, feedback_onset: 40}
-  driver: {type: serial_url, url: "loop://", baudrate: 115200}
+  driver: {type: mock, print_codes: true}
   timing: {post_delay_ms: 1}
   policy: {strict: false}
 sim:

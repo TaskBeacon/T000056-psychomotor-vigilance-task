@@ -60,7 +60,7 @@ stimuli:
 
 triggers:
   map: {exp_onset: 1, exp_end: 2, block_onset: 10, block_end: 11, isi_onset: 20, false_start_response: 21, target_onset: 30, target_response: 31, target_timeout: 32, feedback_onset: 40}
-  driver: {type: serial_url, url: "loop://", baudrate: 115200}
+  driver: {type: mock, print_codes: true}
   timing: {post_delay_ms: 1}
   policy: {strict: false}
 

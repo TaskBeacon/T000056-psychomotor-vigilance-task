@@ -91,6 +91,6 @@ triggers:
     target_response: 31
     target_timeout: 32
     feedback_onset: 40
-  driver: {type: serial_url, url: "loop://", baudrate: 115200}
+  driver: {type: mock, print_codes: true}
   timing: {post_delay_ms: 1}
   policy: {strict: false}
